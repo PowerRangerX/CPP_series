@@ -1,0 +1,146 @@
+{
+  "main": {
+    "id": "8d5feb359e5258c1",
+    "type": "split",
+    "children": [
+      {
+        "id": "f6987102fac89d3c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8b0b8ca0f5f224a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "How C++ Compiler Works.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "10664c7c57c684fb",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f6cee647c58876e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "50f516e4a3d3a2af",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "83f508a8ba3ebead",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9ed60a17b8fd0edc",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a8604077a42725e8",
+    "type": "split",
+    "children": [
+      {
+        "id": "8fd4f98a516fa4e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3dc9179ad7d920df",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "How C++ Compiler Works.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "99ee83ecf904d1a5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "How C++ Compiler Works.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e359592b1b26416c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "17df8dbd0de04be8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "How C++ Compiler Works.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "8b0b8ca0f5f224a0",
+  "lastOpenFiles": [
+    "How C++ Works.md",
+    "how_C++_works.png",
+    "How C++ Compiler Works.md",
+    "README.md"
+  ]
+}

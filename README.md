@@ -1,2 +1,2 @@
 # CPP_series
-CPP series by The Cherno.
+C++ series by The Cherno.
