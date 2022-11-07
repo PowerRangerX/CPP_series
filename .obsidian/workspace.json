@@ -13,13 +13,74 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "How C++ Compiler Works.md",
+                "file": "How CPP Compiler Works.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "849a3192d1628b1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "How CPP Works.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f380f7ea6674169e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "References.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7ba40841a62bbddd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "header guard.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2e2b6c2fbd936eb1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pointers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bd10b6a6f8749673",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pointers.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "How C++ Compiler Works.md",
+                "file": "How CPP Works.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "How C++ Compiler Works.md",
+                "file": "How CPP Works.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "How C++ Compiler Works.md"
+                "file": "How CPP Works.md"
               }
             }
           }
@@ -136,11 +197,16 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8b0b8ca0f5f224a0",
+  "active": "849a3192d1628b1b",
   "lastOpenFiles": [
-    "How C++ Works.md",
-    "how_C++_works.png",
-    "How C++ Compiler Works.md",
-    "README.md"
+    "How CPP Compiler Works.md",
+    "Pointers.md",
+    "README.md",
+    "how_CPP_works.png",
+    "How CPP Works.md",
+    "Conditional Statments.md",
+    "header guard.md",
+    "References.md",
+    "Variables in CPP.md"
   ]
 }

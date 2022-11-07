@@ -1,12 +1,12 @@
-![[how_C++_works.png]]
+# How C++ Compiler Works
+
+![[how_CPP_works.png]]
 
 C++ code is written into a text file, that's all a cpp file is a text file.
 
 Compiler takes our C++ files and converts them into object files (`.obj` files or `.o` files) which is then passed on to the linker that links them together into an executable binary.
 
-### Compiling
-
-#### Preprocessing 
+#### Preprocessing
 
 The preprocessor processes all the preprocessor statements that is all the lines that begin with a hash(`#`).
 
@@ -14,7 +14,7 @@ Once our code has been preprocessed it is then tokenized and parsed and the C++ 
 
 Every single C++ file that we tell our compiler to compile will result in an object file all of these C++ file are called translation unit.
 
-Note :- C++ does not care about files. Files do not exist in C++. For example, in Java, your class name has to be tied to your file name and your folder hierarchy has to be tied to your package, Java expects certain files to exist in C++ however that is not the case there is no such thing as a file. A file is just a way to feed the compiler your C++ code. You are responsible for telling the compiler what kind of file type this is and how the compiler should treat that file. Now as per convention if you create a file with the extension `.cpp` the compiler is going to treat it as C++, a file and with a `.c` extension as a C file and a file with a `.h` extension as a header file but again these are just conventions you can override any of them. For example you can create a file with the extension `.thunder` and tell the compiler to treat it as a C++ file the compiler will treat it as a C++ file.
+C++ does not care about files. Files do not exist in C++. For example, in Java, your class name has to be tied to your file name and your folder hierarchy has to be tied to your package, Java expects certain files to exist in C++ however that is not the case there is no such thing as a file. A file is just a way to feed the compiler your C++ code. You are responsible for telling the compiler what kind of file type this is and how the compiler should treat that file. Now as per convention if you create a file with the extension `.cpp` the compiler is going to treat it as C++, a file and with a `.c` extension as a C file and a file with a `.h` extension as a header file but again these are just conventions you can override any of them. For example you can create a file with the extension `.thunder` and tell the compiler to treat it as a C++ file the compiler will treat it as a C++ file.
 
 Files have no meaning.
 

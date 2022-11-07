@@ -1,8 +1,10 @@
-![[how_C++_works.png]]
+;# How C++ Works
+
+![[how_CPP_works.png]]
 
 The code gets executed line by line this flow of execution can be interrupted by control flow statements or functional calls
 
-`main()` function is a special function that does not need to return any kind of value. If you don't return anything form the `main()` it will assume that you have returned 0 this only applies to the `main()` function.
+The `main()` function is a special function that does not need to return any kind of value. If you don't return anything form the `main()` it will assume that you have returned 0 this only applies to the `main()` function.
 
 Operators are just functions.
 
