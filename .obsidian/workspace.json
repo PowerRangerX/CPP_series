@@ -4,76 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "f6987102fac89d3c",
+        "id": "1e4193dc5691f7b5",
         "type": "tabs",
         "children": [
           {
-            "id": "8b0b8ca0f5f224a0",
+            "id": "8b5f7d61e94beb28",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "How CPP Compiler Works.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
-            "id": "849a3192d1628b1b",
+            "id": "4bd9caddc0dae8b4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "How CPP Works.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f380f7ea6674169e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "References.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7ba40841a62bbddd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "header guard.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2e2b6c2fbd936eb1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pointers.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bd10b6a6f8749673",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pointers.md",
+                "file": "How_CPP_Works.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,14 +94,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "How CPP Works.md",
+                "file": "How_CPP_Works.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -163,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "How CPP Works.md",
+                "file": "How_CPP_Works.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "How CPP Works.md"
+                "file": "How_CPP_Works.md"
               }
             }
           }
@@ -194,19 +142,28 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "849a3192d1628b1b",
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "4bd9caddc0dae8b4",
   "lastOpenFiles": [
-    "How CPP Compiler Works.md",
-    "Pointers.md",
-    "README.md",
     "how_CPP_works.png",
-    "How CPP Works.md",
-    "Conditional Statments.md",
-    "header guard.md",
+    "README.md",
+    "Header_Guard.md",
+    "How_CPP_Works.md",
+    "How_CPP_Compiler_Works.md",
+    "Conditional_Statments.md",
+    "Pointers.md",
     "References.md",
-    "Variables in CPP.md"
+    "Variables_in_CPP.md"
   ]
 }

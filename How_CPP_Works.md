@@ -1,8 +1,35 @@
-;# How C++ Works
+# How C++ Works
+
+Bacially in C++ we write our code in some source file and them pass them on to a compiler that turns them into a binary.
 
 ![[how_CPP_works.png]]
 
-The code gets executed line by line this flow of execution can be interrupted by control flow statements or functional calls
+Following is a very simple C++ program. We'll use this program to learn how C++ works.
+
+```cpp
+#include <iostream>
+
+int main(void)
+{
+	std::cout << "Hello World\n";
+	return 0;
+}
+```
+
+#### Preprocessor Statments [[How_CPP_Compiler_Works#Preprocessing]]
+
+The first line of this program `#include <iostream>` is called a preprocessor statment. Anything that beigns with a `#` symbol will be a preprocessor statment. The first things a compiler does when it see a source file is it preporcess all of your preprocessor statment. That is why they are called preprocessor statments because they happen just before the actual compilation(process of compliing).
+
+##### `#include`
+In this case it is something called `include`, what `include` will do is find a file, so in this case we're looking for a file called `iostream`, `include` will then take all of the content of the file and just paste it into this current file, these file theat you include are called header files.
+
+The reason we are including iostream is becuase we need a declaration a function called `cout`, which will lets us print stuff to our console.
+
+#### The Entry Point
+
+The main function is called the entry point. It is the entry point for our application, that means that when we run our application, our computer starts executing code that begins in this function.
+
+As our program is running our computer will execute the lines of code in order(line by line) this flow of execution can be interrupted by control flow statements or functional calls.
 
 The `main()` function is a special function that does not need to return any kind of value. If you don't return anything form the `main()` it will assume that you have returned 0 this only applies to the `main()` function.
 

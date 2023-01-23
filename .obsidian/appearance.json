@@ -3,5 +3,6 @@
   "theme": "system",
   "interfaceFontFamily": "CaskaydiaCove Nerd Font Mono",
   "textFontFamily": "CaskaydiaCove Nerd Font Mono",
-  "monospaceFontFamily": "CaskaydiaCove Nerd Font Mono"
+  "monospaceFontFamily": "CaskaydiaCove Nerd Font Mono",
+  "baseFontSize": 17
 }

@@ -1,5 +1,8 @@
+
+ This is called pass by value and this will just create a copy of the variable and not change the actual varialbe and not change the actual variable passed to it as the function will just create a copy of the given varialbe.
+
 ```cpp
-int increment(int x) // this is called pass by value and this will just create a copy of the variable and not change the actual variable passed to it as the function will just create a copy of the given variable
+int increment(int x);
 ```
 
 ```cpp
