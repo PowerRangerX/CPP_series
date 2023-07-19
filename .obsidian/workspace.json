@@ -4,31 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "1e4193dc5691f7b5",
+        "id": "a00510e86359dd31",
         "type": "tabs",
         "children": [
           {
-            "id": "8b5f7d61e94beb28",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "4bd9caddc0dae8b4",
+            "id": "0848d9232a0caa82",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "How_CPP_Works.md",
+                "file": "different header includes.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -57,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#include",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -71,6 +62,14 @@
             "type": "leaf",
             "state": {
               "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "f155ee65246173f9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
               "state": {}
             }
           }
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "How_CPP_Works.md",
+                "file": "different header includes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "How_CPP_Works.md",
+                "file": "different header includes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "How_CPP_Works.md"
+                "file": "different header includes.md"
               }
             }
           }
@@ -142,7 +141,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -154,16 +154,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4bd9caddc0dae8b4",
+  "active": "0848d9232a0caa82",
   "lastOpenFiles": [
+    "How_CPP_Works.md",
     "how_CPP_works.png",
+    "How_CPP_Compiler_Works.md",
+    "Pointers.md",
     "README.md",
     "Header_Guard.md",
-    "How_CPP_Works.md",
-    "How_CPP_Compiler_Works.md",
+    "different header includes.md",
+    "Classes.md",
     "Conditional_Statments.md",
-    "Pointers.md",
+    "Variables_in_CPP.md",
+    "Static methods in a class.md",
+    "Static in classes and structs.md",
+    "Static.md",
     "References.md",
-    "Variables_in_CPP.md"
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "Untitled 2.canvas",
+    "2023-07-20.md",
+    "variables.cpp",
+    "test.cpp",
+    "static_methods_in_a_class.cpp",
+    "static_in_classes_and_structs_.cpp",
+    "static.cpp",
+    "references.cpp",
+    "references",
+    "pointers.cpp",
+    "header_guard.h",
+    "different_header_includes.h",
+    "open.md"
   ]
 }
