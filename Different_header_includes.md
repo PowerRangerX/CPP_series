@@ -1,4 +1,4 @@
-# different header includes
+# Different header includes
 
 ```cpp
 #include <iostream> 

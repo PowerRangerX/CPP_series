@@ -1,3 +1,4 @@
+# Static methods in a class
 ```cpp
 #include <iostream>
 

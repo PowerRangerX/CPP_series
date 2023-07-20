@@ -1,4 +1,5 @@
 A pointer is a just number(an integer) that stores a memory address. Types have nothing to do with that, types are some kind of fiction that we've created to make our lives easier, types are completely meaningless.
+
 Pointer for all types is just that number that stores it's memory address.
 
 ```cpp
@@ -28,7 +29,6 @@ Sample program
 
 int main(void)
 {
-
     // void* ptr = NULL;
     void* ptr = nullptr; // typeless pointer, pointing to null
   

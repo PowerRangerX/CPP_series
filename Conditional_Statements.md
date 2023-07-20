@@ -1,4 +1,4 @@
-# Conditional Statments
+# Conditional Statements
 
 ```cpp
 #include <iostream>
